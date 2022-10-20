@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url("/shield.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(30, 30, 30);
+    color: white;
+   
+}
+
+.top-container {
+    padding: 0!;
+    
+}
+#evil-button {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 2rem;
+}
+
+#yes {
+    position: relative;
+    top: 500px;
+    left: 80%;
+    font-size: 2rem;
+}
+
+.name {
+    text-align: center;
+}
